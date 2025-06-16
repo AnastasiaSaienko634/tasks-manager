@@ -1,4 +1,9 @@
 .headerContainer {
   display: flex;
-  justify-content: space-around;
+  padding-left: 11px;
+}
+
+.title {
+  color: #111827;
+  display: flex;
 }

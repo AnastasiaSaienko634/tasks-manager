@@ -2,3 +2,25 @@
   display: flex;
   justify-content: center;
 }
+
+.button {
+  background-color: #3b82f6;
+  padding: 13px 10px;
+  border: 0px;
+  border-radius: 8px;
+  color: white;
+  font-size: 15px;
+}
+
+.button:hover {
+  background-color: #2563eb;
+}
+
+.input {
+  padding: 13px 10px;
+  border: 0px;
+  border-radius: 8px;
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  border: 1px solid #e5e7eb;
+}

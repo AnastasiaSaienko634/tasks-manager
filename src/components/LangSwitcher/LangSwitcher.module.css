@@ -1,0 +1,15 @@
+.switcher {
+  padding: 10px 10px;
+  border-radius: 8px;
+  border: 0px;
+  border: 1px solid #e5e7eb;
+  background-color: white;
+  transition: background-color cubic-bezier(0.075, 0.82, 0.165, 1);
+  width: 200px;
+}
+
+.language {
+  font-size: 16px;
+  padding-top: 7px;
+  padding-left: 5px;
+}
